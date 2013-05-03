@@ -1,1 +1,1 @@
-"ARMA virumque cano, Troiae qui primus ab oris"
+"I sing about weapons and a man originally from Troy."
