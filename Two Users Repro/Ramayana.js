@@ -1,2 +1,2 @@
- "The Sage-Poet Valmiki is inquisitively enquiring about a man who is a composite for all merited endowments."
+"Sage Valmiki is asking about a man who demonstrates all virtues."
 return 5;
